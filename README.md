@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravi Kharte. @ravik07
-- 👀 I’m interested to work on Python and latest growing technology.
-- 🌱 I’m currently learning Data Structure and Algorithm.
+- 👀 I’m interested in working on Java & Kotlin and the latest growing technology.
+- 🌱 I’m currently learning Data Structure and Algorithms.
 - 📫 Reach me on 👉 "LinkedIn" https://linkedin.com/in/ravik007 or kharteravi7@gmail.com .
 
 <!---
